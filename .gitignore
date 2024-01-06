@@ -1,0 +1,6 @@
+\#\#\#BACKUP
+\#\#DEBUG
+.vs
+CaseNormal__vb/obj
+CaseTextConverter__vb/obj
+TesterConsoleApp/obj
