@@ -1,5 +1,6 @@
 \#\#\#BACKUP
 \#\#DEBUG
+\#\#RELEASE
 .vs
 CaseNormal__vb/obj
 CaseTextConverter__vb/obj
