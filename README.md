@@ -1,3 +1,8 @@
+![Screenshot](ScreenShot.png)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
 CaseTextConverter는
 VB.NET으로 작성된 간단한 케이스텍스트 변환 도구입니다.
 
@@ -22,3 +27,7 @@ PascalCase
 camelCase
 
 Helps with conversion.
+
+
+
+
